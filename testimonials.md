@@ -6,7 +6,7 @@ title: Testimonials
 
 # Hello Testimonials
 ## interesting news from the PrecisePainting, LLC world
-![Hero Image](./img/house.jpg)
+![Hero Image](./img/tiled-kitchen.jpg)
 
 Services:
 * painting
