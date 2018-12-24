@@ -1,12 +1,12 @@
 ---
 layout: default.njk
-permalink: /
+
 ---
 
 
-# Hello World
+# About World 
 ## interesting news from the PrecisePainting, LLC world
-![Hero Image](./img/house.jpg)
+![Hero Image](/img/house.jpg)
 
 Services:
 * painting
