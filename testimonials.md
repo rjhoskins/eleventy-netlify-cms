@@ -1,11 +1,10 @@
 ---
 layout: default.njk
-permalink: /
-title: home
+title: Testimonials
 ---
 
 
-# Hello World
+# Hello Testimonials
 ## interesting news from the PrecisePainting, LLC world
 ![Hero Image](./img/house.jpg)
 

@@ -1,6 +1,6 @@
 ---
 layout: default.njk
-
+title: about
 ---
 
 
