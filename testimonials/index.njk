@@ -1,0 +1,16 @@
+---
+layout: default.njk
+---
+
+<h1>--bloggy testimonies--</h1>
+
+<div>
+    <ul>
+    {%- for t in collections.testimonies -%}
+    <li><a href="{{t.url}}">{{t.data.title}}</a></li>
+    {%- endfor -%}
+
+
+    </ul>
+
+</div>
