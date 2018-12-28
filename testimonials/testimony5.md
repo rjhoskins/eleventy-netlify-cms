@@ -1,6 +1,6 @@
 ---
 layout: testimonies.njk
-tag: testimonies
+tags: testimonies
 title: testimony 5
 ---
 

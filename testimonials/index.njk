@@ -6,11 +6,8 @@ layout: default.njk
 
 <div>
     <ul>
-    {%- for t in collections.testimonies -%}
+    {%- for t in collections.testimonies | reverse -%}
     <li><a href="{{t.url}}">{{t.data.title}}</a></li>
     {%- endfor -%}
-
-
     </ul>
-
 </div>
